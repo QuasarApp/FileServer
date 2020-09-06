@@ -1,5 +1,5 @@
 # FileServer
-this is cpp file http server for quasarApp.
+this is cpp file http server for QuasarApp.
 
 # This template supports next build targets:
 
