@@ -1,9 +1,5 @@
-# CMakeProject
-Template repository for cmake project
-Fork me and replase FileServer to Name of your new project.
-
-1. Clone this repository 
-2. Run ./init.sh NewProjectName 
+# FileServer
+this is cpp file http server for quasarApp.
 
 # This template supports next build targets:
 
